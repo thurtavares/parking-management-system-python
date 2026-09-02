@@ -40,3 +40,7 @@ python main.py
 This project was developed with the goal of practicing Python concepts, programming logic, code organization, and graphical interface development.
 
 During development, Artificial Intelligence tools were used to support the learning process and project construction.
+
+## Interface
+
+![System interface](images/working.png)
